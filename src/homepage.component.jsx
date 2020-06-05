@@ -2,7 +2,7 @@ import React from 'react';
 import './homepage.styles.scss'
 
 
-const HomePage = () => (
+const Homepage = () => (
 
     <div className='homepage'>
         <div className='directory-menu'>
@@ -44,4 +44,4 @@ const HomePage = () => (
     </div>
 )
 
-export default HomePage;
+export default Homepage;
